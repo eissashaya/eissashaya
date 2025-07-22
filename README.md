@@ -1,8 +1,8 @@
 <div align="center">
 
   <!-- اسمك مع GIF مرحب -->
-  <h2>مرحبًا، أنا <span style="color:#1E90FF;">عيسى إبراهيم شايع</span> | Eissa Ibrahim Shaya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
-  
+  <h2>مرحبًا، أنا <span style="color:#1E90FF;">عيسى إبراهيم شايع</span> | Eissa Ibrahim Shaya <img src="https://github.com/eissashaya/eissashaya/blob/main/IMG_20240708_031113_033.jpg" width="30px"/></h2>
+ 
   <!-- خلفية متحركة -->
   <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100%" style="border-radius: 15px;"/>
 
