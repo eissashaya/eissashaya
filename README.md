@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://media.giphy.com/media/Yl5aO3gdVfsQ0/giphy.gif" width="100%"/>
+ 
   <h2>مرحبًا، أنا عيسى إبراهيم شايع! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h2>
   <p>مبرمج تطبيقات فلاتر | بايثون | دارت | مصمم مواقع (HTML, CSS, JS, Bootstrap, PHP)</p>
 </div>
