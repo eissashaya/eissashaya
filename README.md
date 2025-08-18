@@ -14,7 +14,9 @@
     <img src="https://img.icons8.com/color/20/dart.png" alt="Dart"/> Dart <br/>
     <strong>🌐 مصمم مواقع</strong> باستخدام 
     <img src="https://img.icons8.com/color/20/html-5.png" alt="HTML"/> HTML, 
+    <img src="https://img.icons8.com/color/20/html-5.png" alt="HTML"/> HTML 5, 
     <img src="https://img.icons8.com/color/20/css3.png" alt="CSS"/> CSS, 
+    <img src="https://img.icons8.com/color/20/css3.png" alt="CSS"/> CSS 3, 
     <img src="https://img.icons8.com/color/20/javascript.png" alt="JavaScript"/> JavaScript, 
     <img src="https://img.icons8.com/color/20/bootstrap.png" alt="Bootstrap"/> Bootstrap, 
     <img src="https://img.icons8.com/color/20/php.png" alt="PHP"/> PHP <br/>
@@ -63,15 +65,36 @@
 
 ---
 
-<div align="center" style="margin-top: 30px;">
-  <h3>🧑‍💻 عنّي</h3>
-  <p style="font-size: 18px; line-height: 1.6; max-width: 700px;">
-    👨‍💻 مبرمج تطبيقات محترف متخصص في Flutter و Python و Dart، مع خبرة في تصميم مواقع باستخدام HTML, CSS, JavaScript, Bootstrap و PHP.<br/>
-    💼 أعمل باستمرار على تحسين مهاراتي وأبحث عن فرص عمل وتعاون جديدة.<br/>
-    🌟 أحب العمل الحر والمشاريع المتنوعة التي تطور من قدراتي.<br/>
+<div align="center" style="margin-top: 40px; padding: 20px;">
+  <h3 style="font-size: 26px; margin-bottom: 15px;">🧑‍💻 عنّي | About Me</h3>
+  
+  <!-- النص العربي -->
+  <p dir="rtl" style="font-size: 18px; line-height: 1.8; max-width: 700px; margin: auto; color: #333; text-align: right;">
+    👨‍💻 مبرمج تطبيقات محترف متخصص في 
+    <strong>Flutter</strong>، <strong>Python</strong>، <strong>Dart</strong>،
+    مع خبرة في تصميم مواقع باستخدام 
+    <strong>HTML, CSS, JavaScript, Bootstrap, PHP</strong>.<br/><br/>
+    💼 أعمل باستمرار على تحسين مهاراتي وأبحث عن فرص عمل وتعاون جديدة.<br/><br/>
+    🌟 أحب العمل الحر والمشاريع المتنوعة التي تطور من قدراتي.<br/><br/>
     🚀 متحمس لتعلم كل جديد في عالم البرمجة وتطوير البرمجيات.
   </p>
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" style="margin-top: 20px; border-radius: 15px;"/>
+
+  <hr style="width: 60%; margin: 30px auto; border: 1px solid #ddd;"/>
+
+  <!-- النص الإنجليزي -->
+  <p dir="ltr" style="font-size: 18px; line-height: 1.8; max-width: 700px; margin: auto; color: #333; text-align: left;">
+    👨‍💻 A professional application developer specialized in 
+    <strong>Flutter</strong>, <strong>Python</strong>, <strong>Dart</strong>, 
+    with experience in web design using 
+    <strong>HTML, CSS, JavaScript, Bootstrap, PHP</strong>.<br/><br/>
+    💼 I am constantly working on improving my skills and looking for new job and collaboration opportunities.<br/><br/>
+    🌟 I enjoy freelancing and diverse projects that enhance my abilities.<br/><br/>
+    🚀 Passionate about learning everything new in the world of programming and software development.
+  </p>
+
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+       width="400" 
+       style="margin-top: 25px; border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"/>
 </div>
 
 ---
@@ -82,7 +105,7 @@
   <a href="https://www.linkedin.com/in/eissa-ibrahim-shaya" title="LinkedIn"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://www.facebook.com/profile.php?id=100031199948943&mibextid=JRoKGi" title="Facebook"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook"/></a>
   <a href="#" title="Telegram"><img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" alt="Telegram"/></a>
-  <a href="https://www.instagram.com/3d_.td/?utm_source=qr&r=nametag" title="Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/v_b.j/?utm_source=qr&r=nametag" title="Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
   <a href="https://wa.me/967776295164" title="WhatsApp"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp"/></a>
   <a href="mailto:eissa.shaya@example.com" title="Email"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
 </div>
