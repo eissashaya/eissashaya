@@ -66,39 +66,35 @@
 ---
 
 <div align="center" style="margin-top: 40px; padding: 20px;">
-  <h3 style="font-size: 26px; margin-bottom: 25px;">🧑‍💻 عنّي | About Me</h3>
-
-  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; max-width: 1200px; margin: auto;">
-
-    <div style="flex: 1; min-width: 300px; max-width: 500px; text-align: right;" dir="rtl">
-      <p style="font-size: 18px; line-height: 1.8; color: #333;">
-        👨‍💻 مبرمج تطبيقات محترف متخصص في 
-        <strong>Flutter</strong>، <strong>Python</strong>، <strong>Dart</strong>،
-        مع خبرة في تصميم مواقع باستخدام 
-        <strong>HTML, CSS, JavaScript, Bootstrap, PHP</strong>.<br/><br/>
-        💼 أعمل باستمرار على تحسين مهاراتي وأبحث عن فرص عمل وتعاون جديدة.<br/><br/>
-        🌟 أحب العمل الحر والمشاريع المتنوعة التي تطور من قدراتي.<br/><br/>
-        🚀 متحمس لتعلم كل جديد في عالم البرمجة وتطوير البرمجيات.
-      </p>
-    </div>
-
+  <h3 style="font-size: 26px; margin-bottom: 15px;">🧑‍💻 عنّي | About Me</h3>
   
-    <div style="flex: 1; min-width: 300px; max-width: 500px; text-align: left;" dir="ltr">
-      <p style="font-size: 18px; line-height: 1.8; color: #333;">
-        👨‍💻 A professional application developer specialized in 
-        <strong>Flutter</strong>, <strong>Python</strong>, <strong>Dart</strong>, 
-        with experience in web design using 
-        <strong>HTML, CSS, JavaScript, Bootstrap, PHP</strong>.<br/><br/>
-        💼 I am constantly working on improving my skills and looking for new job and collaboration opportunities.<br/><br/>
-        🌟 I enjoy freelancing and diverse projects that enhance my abilities.<br/><br/>
-        🚀 Passionate about learning everything new in the world of programming and software development.
-      </p>
-    </div>
-  </div>
+  <!-- النص العربي -->
+  <p dir="rtl" style="font-size: 18px; line-height: 1.8; max-width: 700px; margin: auto; color: #333; text-align: right;">
+    👨‍💻 مبرمج تطبيقات محترف متخصص في 
+    <strong>Flutter</strong>، <strong>Python</strong>، <strong>Dart</strong>،
+    مع خبرة في تصميم مواقع باستخدام 
+    <strong>HTML, CSS, JavaScript, Bootstrap, PHP</strong>.<br/><br/>
+    💼 أعمل باستمرار على تحسين مهاراتي وأبحث عن فرص عمل وتعاون جديدة.<br/><br/>
+    🌟 أحب العمل الحر والمشاريع المتنوعة التي تطور من قدراتي.<br/><br/>
+    🚀 متحمس لتعلم كل جديد في عالم البرمجة وتطوير البرمجيات.
+  </p>
+
+  <hr style="width: 60%; margin: 30px auto; border: 1px solid #ddd;"/>
+
+  <!-- النص الإنجليزي -->
+  <p dir="ltr" style="font-size: 18px; line-height: 1.8; max-width: 700px; margin: auto; color: #333; text-align: left;">
+    👨‍💻 A professional application developer specialized in 
+    <strong>Flutter</strong>, <strong>Python</strong>, <strong>Dart</strong>, 
+    with experience in web design using 
+    <strong>HTML, CSS, JavaScript, Bootstrap, PHP</strong>.<br/><br/>
+    💼 I am constantly working on improving my skills and looking for new job and collaboration opportunities.<br/><br/>
+    🌟 I enjoy freelancing and diverse projects that enhance my abilities.<br/><br/>
+    🚀 Passionate about learning everything new in the world of programming and software development.
+  </p>
 
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
        width="400" 
-       style="margin-top: 30px; border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"/>
+       style="margin-top: 25px; border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"/>
 </div>
 
 ---
