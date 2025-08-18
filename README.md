@@ -65,7 +65,7 @@
 
 ---
 
-  <div align="center" style="margin-top: 40px; padding: 30px;"><div align="center" style="margin-top: 40px; padding: 20px;">
+<div align="center" style="margin-top: 40px; padding: 20px;">
   <h3 style="font-size: 26px; margin-bottom: 15px;">🧑‍💻 عنّي | About Me</h3>
   
   <!-- النص العربي -->
@@ -98,6 +98,7 @@
 </div>
 
 
+
 ---
 
 <div align="center" style="margin-top: 30px;">
@@ -109,4 +110,4 @@
   <a href="https://www.instagram.com/v_b.j/?utm_source=qr&r=nametag" title="Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
   <a href="https://wa.me/967776295164" title="WhatsApp"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp"/></a>
   <a href="mailto:eissa.shaya@example.com" title="Email"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
-</div>
+</div> 
