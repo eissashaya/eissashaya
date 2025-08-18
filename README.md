@@ -65,7 +65,7 @@
 
 ---
 
-<div align="center" style="margin-top: 40px; padding: 20px;">
+  <div align="center" style="margin-top: 40px; padding: 30px;"><div align="center" style="margin-top: 40px; padding: 20px;">
   <h3 style="font-size: 26px; margin-bottom: 15px;">🧑‍💻 عنّي | About Me</h3>
   
   <!-- النص العربي -->
@@ -96,6 +96,7 @@
        width="400" 
        style="margin-top: 25px; border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"/>
 </div>
+
 
 ---
 
