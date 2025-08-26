@@ -50,9 +50,10 @@
 <div align="center" style="margin-top: 30px;">
   <h3>📊 إحصائيات GitHub الخاصة بي</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=eissashaya&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eissashaya&theme=radical" alt="GitHub Streak" width="400"/>
+  <img src="https://streak-stats.demolab.com?user=eissashaya&theme=radical" alt="GitHub Streak" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eissashaya&layout=compact&theme=radical" alt="Top Languages" width="400"/>
 </div>
+
 
 ---
 
