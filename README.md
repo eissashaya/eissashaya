@@ -49,10 +49,23 @@
 
 <div align="center" style="margin-top: 30px;">
   <h3>📊 إحصائيات GitHub الخاصة بي</h3>
+
+  <!-- إحصائيات عامة -->
   <img src="https://github-readme-stats.vercel.app/api?username=eissashaya&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+
+  <!-- ستريك (المساهمات المتتالية) -->
   <img src="https://streak-stats.demolab.com?user=eissashaya&theme=radical" alt="GitHub Streak" width="400"/>
+
+  <!-- اللغات الأكثر استخداماً -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eissashaya&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+
+  <!-- أيقونات إضافية -->
+  <br><br>
+  <img src="https://img.shields.io/github/followers/eissashaya?label=المتابعين&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/eissashaya?label=النجوم&style=for-the-badge&logo=github" alt="GitHub Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=eissashaya&label=عدد+الزيارات&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </div>
+
 
 
 ---
