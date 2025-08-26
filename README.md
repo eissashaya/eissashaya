@@ -53,9 +53,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eissashaya&layout=compact&theme=radical" alt="Top Languages" width="400"/>
 
-  <img src="https://img.shields.io/github/followers/eissashaya?label=المتابعين&style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/stars/eissashaya?label=النجوم&style=for-the-badge&logo=github"/>
-  <img src="https://komarev.com/ghpvc/?username=eissashaya&label=عدد+الزيارات&color=blueviolet&style=for-the-badge"/>
+  
 </div>  
 
 
