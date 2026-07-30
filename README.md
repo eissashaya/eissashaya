@@ -4,7 +4,7 @@
   <h1>👋 مرحبًا، أنا <span style="color:#1E90FF;">عيسى إبراهيم شايع</span> | Eissa Ibrahim Shaya <img src="https://github.com/eissashaya/eissashaya/blob/main/IMG_20240708_031113_033.jpg" width="30px" style="border-radius: 50%;"/></h1>
   
   <!-- خلفية متحركة -->
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100%" style="border-radius: 15px;"/>
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100%" style="border-radius: 15px; max-width: 100%;"/>
 
   <!-- الوصف الاحترافي مع أيقونات ومسافة -->
   <p style="font-size: 20px; line-height: 1.8; margin-top: 20px; font-weight: 500;">
@@ -17,13 +17,13 @@
   <!-- المهارات الأساسية -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin: 20px 0; padding: 20px; background: rgba(255,255,255,0.05); border-radius: 20px; backdrop-filter: blur(10px);">
     
-    <div style="text-align: center;">
+   <div style="text-align: center;">
       <h4 style="color: #FF6B6B; margin-bottom: 10px;">📱 Mobile</h4>
       <img src="https://img.icons8.com/color/40/flutter.png" alt="Flutter" title="Flutter"/>
       <img src="https://img.icons8.com/color/40/dart.png" alt="Dart" title="Dart"/>
     </div>
     
-    <div style="text-align: center;">
+  <div style="text-align: center;">
       <h4 style="color: #4ECDC4; margin-bottom: 10px;">🎨 Frontend</h4>
       <img src="https://img.icons8.com/color/40/html-5.png" alt="HTML5" title="HTML5"/>
       <img src="https://img.icons8.com/color/40/css3.png" alt="CSS3" title="CSS3"/>
@@ -32,14 +32,14 @@
       <img src="https://img.icons8.com/color/40/react-native.png" alt="React" title="React.js"/>
     </div>
     
-    <div style="text-align: center;">
-      <h4 style="color: #FFD93D; margin-bottom: 10px;">⚙️ Backend</h4>
+   <div style="text-align: center;">
+     <h4 style="color: #FFD93D; margin-bottom: 10px;">⚙️ Backend</h4>
       <img src="https://img.icons8.com/color/40/python.png" alt="Python" title="Python"/>
       <img src="https://img.icons8.com/color/40/php.png" alt="PHP" title="PHP"/>
       <img src="https://img.icons8.com/color/40/laravel.png" alt="Laravel" title="Laravel"/>
     </div>
     
-    <div style="text-align: center;">
+   <div style="text-align: center;">
       <h4 style="color: #A29BFE; margin-bottom: 10px;">🛠️ Tools</h4>
       <img src="https://img.icons8.com/color/40/firebase.png" alt="Firebase" title="Firebase"/>
       <img src="https://img.icons8.com/color/40/git.png" alt="Git" title="Git"/>
@@ -71,14 +71,14 @@
 <div align="center" style="margin-top: 30px;">
   <h3>📊 إحصائيات GitHub الخاصة بي</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=eissashaya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="420"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eissashaya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="350"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=eissashaya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="420" style="max-width: 100%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eissashaya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="350" style="max-width: 100%;"/>
   </div>
   
   <!-- سطر إضافي من الإحصائيات -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eissashaya&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="420"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eissashaya&theme=react-dark&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph" width="420"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eissashaya&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="420" style="max-width: 100%;"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eissashaya&theme=react-dark&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph" width="420" style="max-width: 100%;"/>
   </div>
   
 </div>
@@ -104,14 +104,14 @@
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; align-items: center;">
     
     <!-- الجانب الأيمن - الصورة -->
-    <div style="flex: 0 0 200px;">
+  <div style="flex: 0 0 200px;">
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
            width="200" 
-           style="border-radius: 30px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);"/>
+           style="border-radius: 30px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); max-width: 100%;"/>
     </div>
     
     <!-- الجانب الأيسر - النصوص -->
-    <div style="flex: 1; min-width: 280px; text-align: right;">
+   <div style="flex: 1; min-width: 280px; text-align: right;">
       <p dir="rtl" style="font-size: 18px; line-height: 1.8; color: #E0E0E0; text-align: right; padding: 0 20px;">
         👨‍💻 مطور <strong style="color: #FF6B6B;">تطبيقات</strong> و <strong style="color: #4ECDC4;">مواقع</strong> محترف<br/>
         🎯 متخصص في <strong style="color: #FFD93D;">Flutter</strong>، <strong style="color: #A29BFE;">React.js</strong>، <strong style="color: #FF6B6B;">Laravel</strong><br/>
@@ -120,9 +120,9 @@
         💼 أبحث عن فرص عمل وتعاون في مشاريع مبتكرة
       </p>
       
-      <hr style="border-color: rgba(255,255,255,0.1); margin: 15px 0;"/>
+   <hr style="border-color: rgba(255,255,255,0.1); margin: 15px 0;"/>
       
-      <p dir="ltr" style="font-size: 18px; line-height: 1.8; color: #E0E0E0; text-align: left; padding: 0 20px;">
+  <p dir="ltr" style="font-size: 18px; line-height: 1.8; color: #E0E0E0; text-align: left; padding: 0 20px;">
         👨‍💻 Professional <strong style="color: #4ECDC4;">App</strong> & <strong style="color: #FFD93D;">Web</strong> Developer<br/>
         🎯 Specialized in <strong style="color: #FF6B6B;">Flutter</strong>, <strong style="color: #A29BFE;">React.js</strong>, <strong style="color: #FFD93D;">Laravel</strong><br/>
         🌟 Experience in UI/UX design and backend development<br/>
@@ -158,26 +158,26 @@
   <h3 style="color: white; font-size: 26px; margin-bottom: 20px;">📬 تواصل معي | Connect With Me</h3>
   
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <a href="https://github.com/eissashaya" title="GitHub" style="background: white; padding: 10px 20px; border-radius: 50px; transition: transform 0.3s; display: inline-block;">
-      <img src="https://img.icons8.com/fluent/30/000000/github.png" alt="GitHub"/> GitHub
+    <a href="https://github.com/eissashaya" title="GitHub" style="background: white; padding: 10px 20px; border-radius: 50px; transition: transform 0.3s; display: inline-block; text-decoration: none; color: black;">
+      <img src="https://img.icons8.com/fluent/30/000000/github.png" alt="GitHub" style="vertical-align: middle;"/> GitHub
     </a>
-    <a href="https://www.linkedin.com/in/eissa-ibrahim-shaya" title="LinkedIn" style="background: white; padding: 10px 20px; border-radius: 50px; transition: transform 0.3s; display: inline-block;">
-      <img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="LinkedIn"/> LinkedIn
+    <a href="https://www.linkedin.com/in/eissa-ibrahim-shaya" title="LinkedIn" style="background: white; padding: 10px 20px; border-radius: 50px; transition: transform 0.3s; display: inline-block; text-decoration: none; color: black;">
+      <img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle;"/> LinkedIn
     </a>
-    <a href="https://www.facebook.com/profile.php?id=100031199948943&mibextid=JRoKGi" title="Facebook" style="background: white; padding: 10px 20px; border-radius: 50px; transition: transform 0.3s; display: inline-block;">
-      <img src="https://img.icons8.com/fluent/30/000000/facebook-new.png" alt="Facebook"/> Facebook
+    <a href="https://www.facebook.com/profile.php?id=100031199948943&mibextid=JRoKGi" title="Facebook" style="background: white; padding: 10px 20px; border-radius: 50px; transition: transform 0.3s; display: inline-block; text-decoration: none; color: black;">
+      <img src="https://img.icons8.com/fluent/30/000000/facebook-new.png" alt="Facebook" style="vertical-align: middle;"/> Facebook
     </a>
-    <a href="#" title="Telegram" style="background: white; padding: 10px 20px; border-radius: 50px; transition: transform 0.3s; display: inline-block;">
-      <img src="https://img.icons8.com/fluent/30/000000/telegram-app.png" alt="Telegram"/> Telegram
+    <a href="#" title="Telegram" style="background: white; padding: 10px 20px; border-radius: 50px; transition: transform 0.3s; display: inline-block; text-decoration: none; color: black;">
+      <img src="https://img.icons8.com/fluent/30/000000/telegram-app.png" alt="Telegram" style="vertical-align: middle;"/> Telegram
     </a>
-    <a href="https://www.instagram.com/v_b.j/?utm_source=qr&r=nametag" title="Instagram" style="background: white; padding: 10px 20px; border-radius: 50px; transition: transform 0.3s; display: inline-block;">
-      <img src="https://img.icons8.com/fluent/30/000000/instagram-new.png" alt="Instagram"/> Instagram
+    <a href="https://www.instagram.com/v_b.j/?utm_source=qr&r=nametag" title="Instagram" style="background: white; padding: 10px 20px; border-radius: 50px; transition: transform 0.3s; display: inline-block; text-decoration: none; color: black;">
+      <img src="https://img.icons8.com/fluent/30/000000/instagram-new.png" alt="Instagram" style="vertical-align: middle;"/> Instagram
     </a>
-    <a href="https://wa.me/967776295164" title="WhatsApp" style="background: white; padding: 10px 20px; border-radius: 50px; transition: transform 0.3s; display: inline-block;">
-      <img src="https://img.icons8.com/fluent/30/000000/whatsapp.png" alt="WhatsApp"/> WhatsApp
+    <a href="https://wa.me/967776295164" title="WhatsApp" style="background: white; padding: 10px 20px; border-radius: 50px; transition: transform 0.3s; display: inline-block; text-decoration: none; color: black;">
+      <img src="https://img.icons8.com/fluent/30/000000/whatsapp.png" alt="WhatsApp" style="vertical-align: middle;"/> WhatsApp
     </a>
-    <a href="mailto:eissa.shaya@example.com" title="Email" style="background: white; padding: 10px 20px; border-radius: 50px; transition: transform 0.3s; display: inline-block;">
-      <img src="https://img.icons8.com/fluent/30/000000/email.png" alt="Email"/> Email
+    <a href="mailto:eissa.shaya@example.com" title="Email" style="background: white; padding: 10px 20px; border-radius: 50px; transition: transform 0.3s; display: inline-block; text-decoration: none; color: black;">
+      <img src="https://img.icons8.com/fluent/30/000000/email.png" alt="Email" style="vertical-align: middle;"/> Email
     </a>
   </div>
   
@@ -201,5 +201,5 @@
 
 <!-- تذييل متحرك -->
 <div align="center" style="margin-top: 20px; padding: 10px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%" style="max-width: 100%;"/>
 </div>
