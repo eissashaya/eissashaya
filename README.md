@@ -1,116 +1,135 @@
 <div align="center">
 
-  <!-- اسمك مع GIF مرحب -->
-  <h1>👋 مرحبًا، أنا <span style="color:#1E90FF;">عيسى إبراهيم شايع</span> | Eissa Ibrahim Shaya <img src="https://github.com/eissashaya/eissashaya/blob/main/IMG_20240708_031113_033.jpg" width="30px"/></h1>
- 
-  <!-- خلفية متحركة -->
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="100%" style="border-radius: 15px;"/>
+  <!-- Header Banner / Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&height=50&lines=%D9%85%D8%B1%D8%AD%D8%A8%D9%8B%D8%A7%D8%8C+%D8%A3%D9%86%D8%A7+%D8%B9%D9%8A%D8%B3%D9%89+%D8%A5%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85+%D8%B4%D8%A7%D9%8A%D8%B9;Software+Developer+%26+Web+Designer;Flutter+%7C+Python+%7C+Laravel+%7C+React" alt="Typing SVG" />
+  </a>
 
-  <!-- الوصف الاحترافي مع أيقونات ومسافة -->
-  <p style="font-size: 18px; line-height: 1.6; margin-top: 15px;">
-    <strong>💻 مبرمج تطبيقات</strong> باستخدام 
-    <img src="https://img.icons8.com/color/20/flutter.png" alt="Flutter"/> Flutter | 
-    <img src="https://img.icons8.com/color/20/python.png" alt="Python"/> Python | 
-    <img src="https://img.icons8.com/color/20/dart.png" alt="Dart"/> Dart <br/>
-    <strong>🌐 مصمم مواقع</strong> باستخدام 
-    <img src="https://img.icons8.com/color/20/html-5.png" alt="HTML"/> HTML, 
-    <img src="https://img.icons8.com/color/20/html-5.png" alt="HTML"/> HTML 5, 
-    <img src="https://img.icons8.com/color/20/css3.png" alt="CSS"/> CSS, 
-    <img src="https://img.icons8.com/color/20/css3.png" alt="CSS"/> CSS 3, 
-    <img src="https://img.icons8.com/color/20/javascript.png" alt="JavaScript"/> JavaScript, 
-    <img src="https://img.icons8.com/color/20/bootstrap.png" alt="Bootstrap"/> Bootstrap, 
-    <img src="https://img.icons8.com/color/20/php.png" alt="PHP"/> PHP <br/>
-    <strong>⚙️ مهارات برمجية إضافية:</strong> 
-    <img src="https://img.icons8.com/color/20/c-plus-plus-logo.png" alt="C++"/> C++ | 
-    <img src="https://img.icons8.com/color/20/java-coffee-cup-logo.png" alt="Java"/> Java
+  <br/>
+
+  <!-- Profile Image / Avatar -->
+  <img src="https://github.com/eissashaya/eissashaya/blob/main/IMG_20240708_031113_033.jpg" width="120px" style="border-radius: 50%; border: 3px solid #1E90FF; margin-top: 10px;"/>
+
+  <p align="center">
+    <b>مبرمج تطبيقات ومطور ويب متكامل يسعى لبناء حلول برمجية حديثة وذكية.</b>
+  </p>
+
+  <!-- Visitor Counter & Quick Stats Badges -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=eissashaya&style=for-the-badge&color=blue" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/eissashaya?style=for-the-badge&color=1E90FF" alt="Followers"/>
+    <img src="https://img.shields.io/github/stars/eissashaya?style=for-the-badge&color=1E90FF" alt="GitHub Stars"/>
   </p>
 
 </div>
 
 ---
 
-<div align="center" style="margin-top: 20px;">
-  <h3>✨ المهارات التقنية ✨</h3>
-  <img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter" title="Flutter"/>
-  <img src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python"/>
-  <img src="https://img.icons8.com/color/48/dart.png" alt="Dart" title="Dart"/>
-  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML" title="HTML"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" title="CSS"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" title="Bootstrap"/>
-  <img src="https://img.icons8.com/color/48/php.png" alt="PHP" title="PHP"/>
-  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" title="Firebase"/>
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" title="C++"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" title="Java"/>
+### 🛠️ المهارات والتقنيات | Tech Stack
+
+<div align="center">
+
+  <!-- Mobile & Desktop -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  
+  <br/>
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+  <br/>
+
+  <!-- Backend & Database -->
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+  <br/>
+
+  <!-- Languages & Tools -->
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openid&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
 </div>
 
 ---
 
-<div align="center" style="margin-top: 30px;">
-  <h3>📊 إحصائيات GitHub الخاصة بي</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=eissashaya&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eissashaya&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+### 🧑‍💻 عنّي | About Me
 
-  
-</div>  
+<div align="center">
 
+<table border="0" width="100%">
+<tr>
+<td width="50%" dir="rtl" valign="top">
 
----
+#### 🇸🇦 بالعربية
+👨‍💻 **مبرمج تطبيقات ومطور ويب متكامل**، متخصص في بناء التطبيقات باستخدام **Flutter** و **Python**، وتطوير الأنظمة والمواقع الإلكترونية باستخدام **Laravel** و **React** بالإضافة لـ **PHP, HTML, CSS, JavaScript, Bootstrap**.
 
-<div align="center" style="margin-top: 30px;">
-  <h3>📈 عدد زيارات الصفحة والمتابعين</h3>
-  <img src="https://komarev.com/ghpvc/?username=eissashaya&style=flat-square&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/eissashaya?style=social" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/eissashaya?style=social" alt="GitHub Stars"/>
+💼 أعمل بشغف على تحسين مهاراتي باستمرار، وتصميم واجهات مستخدم احترافية وتطوير حلول برمجة متكاملة.
+
+🌟 مهتم بالعمل الحر والمشاريع المبتكرة التي تتيح لي مواجهة تحديات تقنية جديدة.
+
+</td>
+<td width="50%" dir="ltr" valign="top">
+
+#### 🇬🇧 In English
+👨‍💻 **Professional App & Full-Stack Web Developer** specialized in cross-platform mobile apps using **Flutter** & **Python**, along with web application development using **Laravel**, **React**, **PHP**, and modern frontend technologies.
+
+💼 Continuously enhancing my technical stack and seeking new opportunities for impactful collaborations.
+
+🌟 Enthusiastic about freelancing, scalable systems, and building high-performance applications.
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-<div align="center" style="margin-top: 40px; padding: 20px;">
-  <h3 style="font-size: 26px; margin-bottom: 15px;">🧑‍💻 عنّي | About Me</h3>
-  
-  <!-- النص العربي -->
-  <p dir="rtl" style="font-size: 18px; line-height: 1.8; max-width: 700px; margin: auto; color: #333; text-align: right;">
-    👨‍💻 مبرمج تطبيقات محترف متخصص في 
-    <strong>Flutter</strong>، <strong>Python</strong>، <strong>Dart</strong>،
-    مع خبرة في تصميم مواقع باستخدام 
-    <strong>HTML, CSS, JavaScript, Bootstrap, PHP</strong>.<br/><br/>
-    💼 أعمل باستمرار على تحسين مهاراتي وأبحث عن فرص عمل وتعاون جديدة.<br/><br/>
-    🌟 أحب العمل الحر والمشاريع المتنوعة التي تطور من قدراتي.<br/><br/>
-    🚀 متحمس لتعلم كل جديد في عالم البرمجة وتطوير البرمجيات.
-  </p>
+### 📊 إحصائيات GitHub | GitHub Analytics
 
-  <hr style="width: 60%; margin: 30px auto; border: 1px solid #ddd;"/>
+<div align="center">
 
-  <!-- النص الإنجليزي -->
-  <p dir="ltr" style="font-size: 18px; line-height: 1.8; max-width: 700px; margin: auto; color: #333; text-align: left;">
-    👨‍💻 A professional application developer specialized in 
-    <strong>Flutter</strong>, <strong>Python</strong>, <strong>Dart</strong>, 
-    with experience in web design using 
-    <strong>HTML, CSS, JavaScript, Bootstrap, PHP</strong>.<br/><br/>
-    💼 I am constantly working on improving my skills and looking for new job and collaboration opportunities.<br/><br/>
-    🌟 I enjoy freelancing and diverse projects that enhance my abilities.<br/><br/>
-    🚀 Passionate about learning everything new in the world of programming and software development.
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=eissashaya&show_icons=true&theme=radical&hide_border=true&title_color=1E90FF&icon_color=1E90FF" alt="Eissa's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eissashaya&layout=compact&theme=radical&hide_border=true&title_color=1E90FF" alt="Top Languages" width="48%"/>
 
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
-       width="400" 
-       style="margin-top: 25px; border-radius: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"/>
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eissashaya&theme=radical&hide_border=true&background=0D1117&stroke=1E90FF&ring=1E90FF&fire=1E90FF" alt="GitHub Streak" width="96%"/>
+
 </div>
-
-
 
 ---
 
-<div align="center" style="margin-top: 30px;">
-  <h3>📬 تواصل معي</h3>
-  <a href="https://github.com/eissashaya" title="GitHub"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/eissa-ibrahim-shaya" title="LinkedIn"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100031199948943&mibextid=JRoKGi" title="Facebook"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook"/></a>
-  <a href="#" title="Telegram"><img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" alt="Telegram"/></a>
-  <a href="https://www.instagram.com/v_b.j/?utm_source=qr&r=nametag" title="Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
-  <a href="https://wa.me/967776295164" title="WhatsApp"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="WhatsApp"/></a>
-  <a href="mailto:eissa.shaya@example.com" title="Email"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
-</div>  
+### 📬 تواصل معي | Connect With Me
+
+<div align="center">
+
+  <a href="https://github.com/eissashaya">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/eissa-ibrahim-shaya">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/967776295164">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100031199948943">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/v_b.j/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:eissa.shaya@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</div>
